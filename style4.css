@@ -1,0 +1,11 @@
+*{
+    margin : 0px;
+    padding : 0px;
+    background-color: oldlace;
+}
+header{
+    text-align: center;
+    padding : 2%;
+    margin-bottom: 2%;
+    text-decoration-style: double;
+}
